@@ -55,8 +55,8 @@ EOF
 Install Shkepeer helm chart:
 
 ```
-# helm repo add vsys-host https://vsys-host.github.io/helm-charts
-# helm install -f values.yaml shkeeper vsys-host/shkeeper
+# helm repo add drag0n-flyer https://drag0n-flyer.github.io/helm-charts
+# helm install -f values.yaml shkeeper drag0n-flyer/shkeeper
 ```
 
 Login to Shkeeper: http://<ip>:5000/
